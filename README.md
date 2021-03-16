@@ -3,4 +3,5 @@ This MIPS assembly program compresses a string of alphabets (maximum 40) in such
 
 ## Example
 Enter an input string with less than 40 characters and only containing a-z or A-Z: AAAAAAAAAAAAAAAbbaacfeeexxxi
+
 Compressed string: A15b2a2cfe3x3i
