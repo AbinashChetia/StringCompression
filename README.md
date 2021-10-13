@@ -6,3 +6,6 @@ The program has been executed and tested in the MARS Simulator.
 Enter an input string with less than 40 characters and only containing a-z or A-Z: AAAAAAAAAAAAAAAbbaacfeeexxxi
 
 Compressed string: A15b2a2cfe3x3i
+
+## Snapshot
+![alt text](https://github.com/AbinashChetia/StringCompression/blob/main/snapshot.png)
